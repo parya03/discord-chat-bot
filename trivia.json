@@ -1,0 +1,28 @@
+{
+  "Capitals": {
+    "France" : "Paris",
+    "India" : "New Delhi",
+    "United States" : "Washington DC",
+    "Mexico" : "Mexico City",
+    "Singapore" : "Singapore",
+    "Pakistan" : "Islamabad",
+    "Bangladesh" : "Dhaka",
+    "Nepal" : "Kathmandu",
+    "Canada" : "Montreal",
+    "Namibia" : "Windhoek",
+    "Kazakhstan" : "Nur-Sultan",
+    "Czech Republic" : "Prague",
+    "Bulgaria" : "Sofia",
+    "Bhutan" : "Thimpu",
+    "Azerbaijan" : "Baku"
+  },
+  "Jokes": {
+    "Is your refrigerator running?" : "Cause you better go catch it!",
+    "As I put the car in reverse, I thought to myself...." : "This takes me back!",
+    "What does a house wear?" : "Address",
+    "Why aren't Koalas considered bears?" : "They lack the Koalafications!",
+    "What do you call someone who relies on hotels?" : "Inn-dependent!",
+    "What do you call a broken can opener?" : "A can't opener!",
+    "What happens when a frog's car breaks down?" : "It gets toad!"
+  }
+}
