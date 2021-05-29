@@ -142,4 +142,4 @@ class MyClient(discord.Client):
             await message.channel.send(await handle_input(message, message.content))
 
 client = MyClient()
-client.run('ODM1MjY4MTk4MjM1NjM1NzQy.YIM-IA.fxNiGf1NteuJNnDB85mFdBUQ9PE')
+client.run('add-token-here')
